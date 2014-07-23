@@ -1,6 +1,5 @@
-//#<?function puts($a){echo"\x8\x8\x8$a\n";}/*
-//;def main;yield end;"\
-puts=console.log;/**/function//"
-main(){puts("Hello, world!");}
-//;"\
-main();//"
+//#<?/*
+//;def main&b;b&&yield end;"\
+printf=require('util').print;/**/function//"
+main(){printf("\x08\x08\x08Hello, world!\n");}
+main();
