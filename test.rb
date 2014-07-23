@@ -1,6 +1,6 @@
 //#<?/*
 //;def main;yield end;"\
-puts=console.log;exit=function(){};function
+puts=console.log;function
 //"
 main(){puts(
 "*/?>Hello, world!<?/*    ");}
