@@ -1,4 +1,4 @@
-#/*<?php error_reporting(E_ALL ^ E_NOTICE);
+#/*<?php error_reporting(E_ALL ^ E_NOTICE);
 # */
 #include <stdio.h>
 #include <stdlib.h>
@@ -13,9 +13,9 @@ int main() {
 
 # /*
 if ("00"==false)
-   console.log("Hello from JavaScript!");
+  console.log("Hello from JavaScript!");
 else # */
-if ("0"==false) 
+if ("0"==false)
   printf("Hello from PHP!\n");
 else if (0==false)
   printf("Hello from C!\n");
