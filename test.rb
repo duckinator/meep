@@ -29,6 +29,6 @@ end;
 end;
 # */
 
-#define CPAREN }
+#define CBRACKET }
 exit(0);
-CPAREN;
+CBRACKET;
