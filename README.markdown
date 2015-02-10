@@ -18,7 +18,7 @@ Polyglot program: Hello World in Ruby, C, PHP, and JavaScript.
 ```
 
 * Ruby sees an empty regular expression literal, followed by a definition of `main`, followed by the beginning of a string literal.
-* C sees a one-line comment, with a line continuation at the end (the `\`).
+* C sees a one-line comment, with a line continuation (the `\`).
 * PHP sees the continuation of the multi-line comment.
 * JavaScript sees a single-line comment.
 
