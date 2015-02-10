@@ -8,7 +8,7 @@ Polyglot program: Hello World in Ruby, C, PHP, and JavaScript.
 //#<?php /*
 ```
 
-* Ruby sees `//` &mdash; an empty regular expression literal &mdash; followed by the comment `<?php /*`.
+* Ruby sees an empty regular expression literal, followed by the comment `<?php /*`.
 * C sees a one-line comment.
 * PHP sees a literal `//#`, the beginning of PHP code, and the beginning of a multi-line comment.
 * JavaScript sees a single-line comment.
