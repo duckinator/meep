@@ -31,7 +31,7 @@ printf=require('util').print;/**/function//"
 * Ruby sees a continuation of the string literal.
 * C sees the ending of the continued one-line comment.
 * PHP sees a continuation of the multi-line comment, followed by the `function` keyword, and a one-line comment.
-* JavaScript sees an importing of the `print` function as `print()`, followed by an empty multi-line comment, followed by the function keyword, followed by a one-line comment.
+* JavaScript sees an importing of the `print` function as `printf()`, followed by an empty multi-line comment, followed by the function keyword, followed by a one-line comment.
 
 ```
 main(){printf("\x08\x08\x08Hello, world!\n");}
