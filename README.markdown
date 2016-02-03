@@ -46,5 +46,5 @@ main();
 ```
 
 * Ruby sees a call to `main`, which is an elaborate no-op because there is no block.
-* C sees this as ... who the fuck knows? It doesn't break anything, though.
+* C sees this as a function prototype for main, with no arguments and an implicit return type of `int`.
 * PHP and JavaScript sees this as calling the `main` function defined above.
